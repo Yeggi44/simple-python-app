@@ -1,8 +1,12 @@
 #!/bin/bash
 set -e
 
+<<<<<<< HEAD
 # Pull the Docker image from Docker Hub
-docker pull yagnesh5/simple-python-flask-app
+echo
 
 # Run the Docker image as a container
-docker run -d -p 5000:5000 yagnesh5/simple-python-flask-app
+echo
+=======
+
+>>>>>>> 80640e7ae5b4897682a8f486aca5423a23d12063
